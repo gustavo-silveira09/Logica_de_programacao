@@ -1,3 +1,7 @@
+#7-	Crie um programa que solicite números ao usuário continuamente
+#até que ele insira um número negativo. Em seguida, exiba
+#a média dos números positivos fornecidos.
+
 i = 0
 somaPos = 0
 media = 0

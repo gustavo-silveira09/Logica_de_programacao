@@ -1,3 +1,7 @@
+#3-	Fazer um programa que retorne quantos valores 
+#digitados pelo usuário são negativos. Repetir o enquanto 
+#até o usuário digitar o valor ZERO:
+
 neg = 0
 posi = 0
 
