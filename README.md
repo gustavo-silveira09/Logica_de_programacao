@@ -24,7 +24,7 @@ Atividades relacionadas à indústria, como balanceamento de linha de produção
 
 Projetos desenvolvidos
 
-Projeto de comunicação entre montagem e controle de qualidade: desenvolvimento de um sistema utilizando HTML, CSS e JavaScript para registrar peças, comunicar falhas e acompanhar a produção.
+Projeto de comunicação entre montagem e controle de qualidade: desenvolvimento de um sistema utilizando Python para registrar peças, comunicar falhas e acompanhar a produção.
 
 Projeto de tecnologias industriais: pesquisa sobre automação industrial, redes TSN, PROFINET, OPC UA FX e gêmeos digitais, buscando compreender suas aplicações na indústria.
 
